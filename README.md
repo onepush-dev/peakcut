@@ -2,7 +2,7 @@
 
 [PeakCut](https://github.com/haziqahmedqasmi/PeakCut) (MIT) — self-hosted AI clipping for long videos and live streams: finds the highlights, reframes to 9:16, burns word-by-word captions and can post to YouTube Shorts, Instagram Reels and TikTok. Deploy it on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/D_H2dh)
 
 ## What this template runs
 
